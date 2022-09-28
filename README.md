@@ -19,9 +19,9 @@ The entire program is divided in different functions using the language of pytho
 # Development Environment
 
 * pip3 install firebase-admin
-For python to work with firebase
+(For python to work with firebase)
 * pip3 install pyrebase 
-For python to implement with user authentication
+(For python to implement with user authentication)
 * Python 3.9.7 64-bits 
 * Visual Studio Code
 
