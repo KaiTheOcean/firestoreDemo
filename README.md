@@ -29,7 +29,7 @@ For python to implement with user authentication
 
 * [Firebase](https://console.firebase.google.com/)
 * [Python functions](https://docs.python.org/3/library/functions.html)
-* [Firestore Query] (https://firebase.google.com/docs/firestore/query-data/get-data)
+* [Firestore Query](https://firebase.google.com/docs/firestore/query-data/get-data)
 
 
 # Future Work
