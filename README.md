@@ -6,7 +6,7 @@ The purpose of writing this software is to help teachers well organize his/her s
 
 Below is a YouTube video of me showing you how this code is written, and how this code works. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/hZB5qak-DFk)
 
 # Cloud Database
 
